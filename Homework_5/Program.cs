@@ -1,6 +1,6 @@
 ﻿using Homework_5;
 
-namespace Homework_4
+namespace Homework_5
 {
     internal class Program
     {
